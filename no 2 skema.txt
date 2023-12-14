@@ -1,0 +1,5 @@
+No 2. Dari gambar tersebut bisa saya ambil kesimpulan bahwa itu merupakan proses skema aplikasi berbasis web dari user hingga web server. 
+Jadi awalnya user mencari url web yang ingin dituju menggunakan web browser lalu, dari client request respond ke web server 
+setelah itu, web server menerima respond lalu mengirim respond yang diinginkan oleh web browser.
+setelah itu, web browser menerima dan menampilkan pada user. 
+web browser terhubung dengan web server melalui ip atau tcp
